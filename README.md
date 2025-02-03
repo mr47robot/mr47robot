@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Montu](https://github.com/mr47robot/Montu)
 
-- 🌱 I’m currently learning **Laravel**
-
 - 📫 How to reach me **ma19988302@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/ejhDP](https://shorturl.at/ejhDP)
