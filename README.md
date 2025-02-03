@@ -16,7 +16,7 @@
 <a href="https://fb.com/mohamedashraf.moviemaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedashraf.moviemaker" height="30" width="40" /></a>
 <a href="https://instagram.com/mr47robot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr47robot_" height="30" width="40" /></a>
 <a href="https://www.behance.net/mohamedashraf522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamedashraf522" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mohamedashraf-vx3te" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohamedashraf-vx3te" height="30" width="40" /></a>
+<a href="https://youtube.com/@mohamedashraf-vx3te" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohamedashraf-vx3te" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
