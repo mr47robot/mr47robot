@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ma19988302@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/ejhDP](https://shorturl.at/ejhDP)
+- 📄 Know about my experiences [https://shorturl.at/dq6LE](https://shorturl.at/dq6LE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
